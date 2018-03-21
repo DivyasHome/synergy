@@ -6,6 +6,6 @@ Thank you for checking this out! Here, I hope to be collecting and sharing vario
 I hope this can inspire others or help plan some part of their lives.
 
 [Travel](travel.md)
-[Festivals](travel.md)
+[Festivals](festivals.md)
 
 - Divya
