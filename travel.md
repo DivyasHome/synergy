@@ -8,11 +8,12 @@
 Place: Singapore
 
 Who:
-Mom
-Dad
-Sister
-Husband
+- Saroja _(Mom)_
+- Shankaran _(Dad)_
+- Nitya _(Sister)_
+- Karthik _(Husband)_
 
 How long: 7 days
 
-Where: [Grand Hyatt] (https://singapore.grand.hyatt.com/en/hotel/home.html)
+Where: 
+[Grand Hyatt] (https://singapore.grand.hyatt.com/en/hotel/home.html)
